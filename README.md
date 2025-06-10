@@ -25,11 +25,11 @@ A simple React + Redux Toolkit CRUD application to manage products with Create, 
 ## 🔧 Setup Instructions
 
 1.  Install Dependencies
-    npm install
+   - npm install
 
 2.  Run the Development Server
-    npm run dev
+   - npm run dev
 
 3.  🔐 Dummy Credentials
-    Username: emilys
-    Password: emilyspass
+   - Username: emilys
+   - Password: emilyspass
