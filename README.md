@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ React Product CRUD App
 
 A simple React + Redux Toolkit CRUD application to manage products with Create, Read, Update, and Delete functionality. This project uses **Axios**, **Redux Toolkit**.
@@ -33,3 +34,7 @@ A simple React + Redux Toolkit CRUD application to manage products with Create, 
 3.  🔐 Dummy Credentials
    - Username: emilys
    - Password: emilyspass
+=======
+# TO-DO-List
+React + Redux Toolkit todo app with JWT auth, product CRUD, and REST API integration using DummyJSON.
+>>>>>>> 4e0a4a8eef08b45ac6362b4b7fc3987538a570de
