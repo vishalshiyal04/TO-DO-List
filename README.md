@@ -37,4 +37,3 @@ A simple React + Redux Toolkit CRUD application to manage products with Create, 
 =======
 # TO-DO-List
 React + Redux Toolkit todo app with JWT auth, product CRUD, and REST API integration using DummyJSON.
->>>>>>> 4e0a4a8eef08b45ac6362b4b7fc3987538a570de
